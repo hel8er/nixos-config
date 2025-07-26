@@ -28,6 +28,7 @@ home-manager = {
     obsidian
     telegram-desktop
     winbox4
+    lazygit
     ];
 
   home.sessionVariables = {
